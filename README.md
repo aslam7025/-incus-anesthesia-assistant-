@@ -1,7 +1,7 @@
  
 # Incus – Voice-Controlled Anesthesia Hardware Controller
 
-Incus is an educational prototype that demonstrates a **voice-controlled anesthesia workstation interface** using Python-based speech recognition and an ESP8266 microcontroller.
+Incus is an educational prototype that demonstrates a **Voice-Controlled Anesthesia Workstation Interface** using Python-based speech recognition and an ESP8266 microcontroller.
 
 The system allows spoken commands to control simulated medical hardware actions over WiFi, with real-time feedback and safety-oriented interaction.
 
